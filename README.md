@@ -1,5 +1,7 @@
 # Research Copilot — Project Brief
 
+> **Status: On hiatus.** This project is currently paused. No active development is happening right now, but it may resume in the future.
+
 ## What it is
 
 A research-to-knowledge system for content creators that structures a topic *before* retrieval, organizes uploaded research against that structure, flags what's missing, and answers questions grounded only in the user's own sources with citations. Unlike standard "chat with your PDF" RAG, the differentiator is a topic-intelligence layer that runs before ingestion, plus an evaluation harness that measures retrieval quality objectively.

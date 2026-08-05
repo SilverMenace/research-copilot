@@ -1,6 +1,6 @@
 # Research Copilot — Project Brief
 
-> **Status: On hiatus.** This project is currently paused. No active development is happening right now, but it may resume in the future.
+> **Status: On hiatus.** This project is currently paused. No active development is happening right now,it will resume soon in the future.
 
 ## What it is
 
